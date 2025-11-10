@@ -1,2 +1,3 @@
 # energy_consumption-week02-
 This project focuses on predicting building energy consumption using a machine learning model built in Python.
+A Random Forest Regressor was trained on synthetic energy data containing environmental, operational, and temporal features such as temperature, occupancy, and hour of the day. Feature engineering techniques like lag values and rolling averages were applied to capture past usage patterns and improve model accuracy.Model performance was assessed using RMSE and R² scores, with results indicating strong predictive accuracy and stability. Overall, this approach demonstrates how intelligent data processing and ensemble learning can effectively forecast energy consumption for smart building management.
